@@ -1,4 +1,4 @@
-# Lux-Dev-DataStructures-Algorithms-BootCamp
+# DataStructures-Algorithms
 
 ## Week 1 Data STructures and ALgrotithms
 
